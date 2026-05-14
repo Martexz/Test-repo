@@ -3,7 +3,6 @@
 
 #include <string>
 #include <winsock2.h>
-#include <map>
 #include "protocol.h"
 
 class Receiver {
