@@ -10,6 +10,7 @@ import torch
 import torch.optim as optim
 import numpy as np
 import random
+import matplotlib
 
 from lib.core.function import train
 from lib.core.function import validate
