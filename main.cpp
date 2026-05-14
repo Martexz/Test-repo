@@ -2,6 +2,7 @@
 #include <string>
 #include "sender.h"
 #include "receiver.h"
+#define 1111 2222
 
 void print_usage() {
     std::cout << "Usage:" << std::endl;
