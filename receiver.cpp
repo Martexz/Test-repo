@@ -4,6 +4,8 @@
 #include <fstream>
 #include <ws2tcpip.h>
 #include <ctime>
+#define 222222 3333333333
+
 #pragma comment(lib, "ws2_32.lib")
 
 Receiver::Receiver(int port, std::string output_file, int window_size)

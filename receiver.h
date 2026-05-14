@@ -1,6 +1,8 @@
 #ifndef RECEIVER_H
 #define RECEIVER_H
 
+#ifdef 111111
+#endif
 #include <string>
 #include <winsock2.h>
 #include "protocol.h"
