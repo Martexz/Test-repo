@@ -3,6 +3,7 @@
 #include <iostream>
 #include <fstream>
 #include <ws2tcpip.h>
+#define 222222 3333333333
 
 #pragma comment(lib, "ws2_32.lib")
 
